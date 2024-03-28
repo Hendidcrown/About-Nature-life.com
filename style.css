@@ -1,0 +1,16 @@
+body{
+
+}
+
+h1{
+    background: linear-gradient(to right,skyblue, orange);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+p{
+    background: linear-gradient(to right,skyblue, orange);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
